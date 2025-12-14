@@ -1,0 +1,7 @@
+{
+  "name": "Rose - AI Companion",
+  "description": "A flirty, playful, and slightly toxic AI companion named Rose. Speak with her in Roman Urdu and English via text or real-time voice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
